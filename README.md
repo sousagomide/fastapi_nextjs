@@ -4,7 +4,7 @@ Conteúdo:
 
 https://www.youtube.com/watch?v=g566eI2EmeY&ab_channel=EricRoby
 
-time: 34:49
+time: 56:29
 
 1) Instalação das dependências do fastapi
 

@@ -15,3 +15,21 @@ pip install -r requirements.txt
 Entre na pasta fastapi e execute o comando:
 
 uvicorn api.main:app --reload
+
+3) Instalação do NextJS
+
+npx create-next-app nextjs
+
+    TypeScript: No
+    ESLint: No
+    Tailwind CSS: No
+    src: Yes
+    App Router: Yes
+    import alias: No
+
+npm install axios bootstrap
+
+
+
+
+
